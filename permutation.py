@@ -1,7 +1,7 @@
 print("Hello My Friends ! I'm Permutation Calculator. My Creator: https://github.com/wolfnatural ")
 
 x = int(input("Please Enter The Desired First Number :"))
-y = int (input("Please Enter The Desired First Number :"))
+y = int(input("Please Enter The Desired Second Number :"))
 
 z=1
 q=1
