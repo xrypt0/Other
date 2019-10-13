@@ -19,12 +19,8 @@ for k in range (x-y):
 answer = z/t
 
 
-if (x==y):
-    print("Answer : 1 \n \n Contact : harunaydmrtr@outlook.com")
-
-elif(y+1==x):
-    print("Answer :",x)
-    print("\n Contact : harunaydmrtr@outlook.com")
+if (x<y):
+    print("\n !!!! I Can Not Calculate !!!! PLEASE TRY AGAIN...")
 
 else:
     print("Answer :",answer)
