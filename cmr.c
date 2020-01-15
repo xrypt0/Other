@@ -36,17 +36,17 @@ int main(){
 			}
 			else if(z == '+')
 			{
-				printf("\n LEYDİMİN SONUCU :  ",y+z);
+				printf("\n LEYDİMİN SONUCU :  ",y+q);
 			}
 			else if(z == '-'){
-				printf("\n LEYDİMİN İSTEDİĞİ SONUÇ :  ",y-z);
+				printf("\n LEYDİMİN İSTEDİĞİ SONUÇ :  ",y-q);
 			}
 			else if(z == '*'){
-				printf("\n LEYDİMİN CEVABI :  ",y*z);
+				printf("\n LEYDİMİN CEVABI :  ",y*q);
 			}
 			else if(z == '/'){
 
-				printf("\n LEYDİMİN İSTEDİĞİ CEVAP :  ",y/z);
+				printf("\n LEYDİMİN İSTEDİĞİ CEVAP :  ",y/q);
 			}
 			else{
 				printf("\n LEYDİMİN BİR HATASI VAR... TEKRAR DENE...");
