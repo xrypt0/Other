@@ -8,6 +8,3 @@ C Language Programs Compiled With GCC
 
 C Language Programs Compiled With GCC++
 
-
-# LEYDİME...
-14 + 01 ;)
