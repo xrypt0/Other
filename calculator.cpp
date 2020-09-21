@@ -38,7 +38,7 @@ else if(transaction == '/'){
 }
 else{
     
-    cout << "Something Went Wrong :( Pleas Try Again \n \n Contact : harunaydmrtr@outlook.com" << endl;
+    cout << "Something Went Wrong :( Pleas Try Again " << endl;
     
 }
     
