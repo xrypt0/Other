@@ -24,4 +24,3 @@ if (x<y):
 
 else:
     print("Answer :",answer)
-    print("\n Contact : harunaydmrtr@outlook.com")
