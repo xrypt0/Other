@@ -6,7 +6,7 @@ int main(){
 int pain1,pain2,pain3;
 
 
-	printf("Hello My Friends ! I'am a Triangle Calculator ! \n My Creator : https://github.com/wolfnatural \n \n Contact : harunaydmrtr@outlook.com \n \n");
+	printf("Hello My Friends ! I'am a Triangle Calculator ! \n My Creator : https://github.com/wolfnatural \n \n ");
 	printf("Please Enter The Desired First Pain :");
 	scanf("%d",&pain1);
 	printf("Please Enter The Desired Second Pain :");
