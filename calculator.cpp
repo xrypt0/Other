@@ -8,7 +8,7 @@ int main()
     char transaction;
     
     
-cout << "Hello My Friends ! I'am a Calculator ! My Creator : https://github.com/wolfnatural \n \n \n NOTE : Transactions: \n Addition : + \n Subtraction : - \n Multiplication : * \n Division : / \n \n" << endl;
+cout << "Hello My Friends ! I'am a Calculator ! My Creator : https://github.com/xrypt0 \n \n \n NOTE : Transactions: \n Addition : + \n Subtraction : - \n Multiplication : * \n Division : / \n \n" << endl;
 cout << "Please Enter The First Number : " << endl;
 cin >> number1; 
 cout << "Please Enter The Desired Transaction : " << endl;
