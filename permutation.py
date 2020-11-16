@@ -1,4 +1,4 @@
-print("Hello My Friends ! I'm Permutation Calculator. My Creator: https://github.com/wolfnatural ")
+print("I'm Permutation Calculator. My Creator: https://github.com/xrypt0 ")
 
 x = int(input("Please Enter The Desired First Number :"))
 y = int(input("Please Enter The Desired Second Number :"))
