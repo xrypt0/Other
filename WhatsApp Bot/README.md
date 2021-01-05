@@ -1,4 +1,4 @@
-#Necessary Things
+# Necessary Things
 
 Python 3.x
 Selenium / Webdriver
@@ -6,7 +6,7 @@ OS
 Time
 Firefox
 
-#USE OF
+# USE OF
 
 1-) Get Xpaths 
 
