@@ -35,6 +35,7 @@ C:::::C               r:::::r               y:::::y:::::y       p:::::p     p:::
 
 message = input("Please enter your message : ")
 location = os.getcwd() 
+#This Code Belongs To Crypto.
 path = location+'\\geckodriver.exe'
 browser = webdriver.Firefox(executable_path = path)
 browser.get("https://web.whatsapp.com/")
