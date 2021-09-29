@@ -6,4 +6,4 @@ for i in range(x):
     y*= i+1
 
 print("Answer : ",y)
-print("\n \n https://github.com/wolfnatural ")
+print("\n \n https://github.com/xrypt0 ")
